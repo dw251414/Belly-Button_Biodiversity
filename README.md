@@ -1,5 +1,7 @@
 # Belly-Button_Biodiversity
-Plotly and Belly Button Biodiversity: Build an interactive dashboard using Plotly.js to explore data on the biodiversity of belly buttons. Then deploy your dashboard to a cloud server.
+Plotly and Belly Button Biodiversity: Build an interactive dashboard using Plotly.js to explore data on the biodiversity of belly buttons. Then deploy your dashboard to a cloud server. The interactive dashboard explores the Belly Button Biodiversity dataset (see link below), which catalogs the microbes that colonize human navels.
+
+Belly Button Biodiversity dataset: http://robdunnlab.com/projects/belly-button-biodiversity/
 
 --- 
 
